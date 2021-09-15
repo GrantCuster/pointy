@@ -1,5 +1,7 @@
 # Experimental pointer event API
 
+Demo: https://grantcuster.github.io/pointy/
+
 Work in progress to make a higher-level pointer event API that it's easier for me to think about.
 
 # Getting Started with Create React App
